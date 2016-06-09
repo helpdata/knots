@@ -182,8 +182,7 @@ a {
   overflow: auto;
   word-break: normal;
   word-break: keep-all;
-  margin-left:auto; 
-  margin-right:auto; }
+  margin: 0 auto; }
   .main-content table th {
     font-weight: bold; }
   .main-content table th, .main-content table td {
