@@ -177,8 +177,7 @@ a {
     margin-bottom: 0; }
 .main-content table {
   font-size: 75%;
-  width: 80%;
-  display: block;
+  width: 100%;
   overflow: auto;
   word-break: normal;
   word-break: keep-all;
